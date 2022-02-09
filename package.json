@@ -1,6 +1,6 @@
 {
 	"name": "exhibit-of-an-ending",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"author": "Joeri Bakker <bakkerjoeri@gmail.com>",
 	"license": "MIT",
 	"scripts": {
@@ -17,6 +17,7 @@
 		"typescript": "^4.5.5"
 	},
 	"dependencies": {
+		"inkjs": "^2.0.0",
 		"micromark": "^3.0.10"
 	}
 }

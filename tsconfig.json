@@ -4,6 +4,8 @@
 		"module": "esnext",
 		"target": "esnext",
 		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
 		"jsx": "preserve",
 		"baseUrl": "./",
 		"noEmit": true,
