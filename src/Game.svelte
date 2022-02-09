@@ -95,7 +95,7 @@
 		justify-content: flex-end;
 		max-width: 520px;
 		margin: 0 auto;
-		padding: 40px 20px;
+		padding: 40px;
 		padding-bottom: 25vh;
 	}
 
@@ -118,6 +118,10 @@
 		background-color: transparent;
 		font-size: inherit;
 		border: none;
+		display: inline;
+		text-align: left;
+		vertical-align: top;
+		line-height: inherit;
 	}
 
 	.choice:hover,
